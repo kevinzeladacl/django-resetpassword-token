@@ -1,6 +1,6 @@
 # DJANGO RESETPASSWORD TOKEN
 
-CUSTOM APP TO DJANGO PROJECTS
+CUSTOM APP FOR DJANGO PROJECTS
 
 ## Getting Started
 
@@ -13,6 +13,8 @@ What things you need to install the software and how to install them
  
 
 - [Seed Project](https://github.com/kevinzeladacl/seed/)
+- Celery (Custom celery for seed projects)
+- Redis
 
   
 
